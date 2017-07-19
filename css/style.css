@@ -53,3 +53,18 @@ body { width: 100%;}
 /*****************************************************
 * ADD YOUR OWN CSS BELOW! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 ******************************************************/
+header {
+	background:darkorange;
+	color: white;
+	margin-right: 80px;
+	font-family: sans-serif;
+}
+
+.instructions {
+	border-color:darkorange;
+	border-style: solid;
+	margin-top: 80px;
+	color: darkorange;
+
+}
+
